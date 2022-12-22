@@ -15,6 +15,7 @@ In this challenge I scrape the Walgreens listing page using Javascript. First na
 npm i
 ```
 in order to install node modules
+
 3. run
 ```
 npm run start
